@@ -43,9 +43,9 @@ metadata:
     app: lbgjokes
 spec:
   ports:
-    - port: 80
+    - port: 5000
       protocol: TCP
-      targetPort: 5000
+      targetPort: 80
   selector:
     app: lbgjokes
     tier: lbgjokes
