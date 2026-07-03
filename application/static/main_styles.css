@@ -23,7 +23,7 @@ footer {
    text-align: center;
 }
 
-.joke { background-color: purple;
+.joke { background-color: rgb(241, 167, 241);
         padding: 1%;
         color: white;
         font-family: Verdana, serif;
@@ -34,7 +34,7 @@ footer {
 }
 
 .button {
-  background-color: DarkKhaki;
+  background-color: rgb(107, 133, 189);
   border: none;
   color: white;
   padding: 15px 32px;
